@@ -57,7 +57,7 @@
     ls
     cd Live-location.py 
     ls
-    sudo python3 Live-location.py
+    sudo python3 Live-location
 # 🔰Termux Installation🔰
     apt update 
     apt install git 
@@ -66,7 +66,7 @@
     apt install pip
     git clone https://github.com/Monsterlallu/Live-location.git
     ls
-    cd Live-location.py
+    cd Live-location
     ls
     python3 Live-location.py
 # ❌Disclaimer❌
