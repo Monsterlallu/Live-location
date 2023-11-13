@@ -39,8 +39,8 @@ def loop():
     │ ├┬┘├─┤│  ├┴┐├┤ ├┬┘
     ┴ ┴└─┴ ┴└─┘┴ ┴└─┘┴└─                                                                                                                                                       
  ==============================================
-[+]Author  : Akash Black Hat                 [+]
-[+]GitHub  : https://github.com/akashblackhat[+]""")
+[+]Author  : MONSTER LALLU                  [+]
+[+]GitHub  : https://github.com/Monsterlallu[+]""")
     print(Fore.GREEN + """ ==============================================""")
     # print("Usage:Iptracker [Ip address]\n\nExample:Iptracker our prsnal ip")
     print(Fore.GREEN + """
